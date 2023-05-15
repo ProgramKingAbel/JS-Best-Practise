@@ -11,6 +11,11 @@ body {
   background-color: white;
 }
 
+.format {
+  display: flex;
+  flex-direction: column;
+}
+
 .heading,
 .insert,
 .list-item,
